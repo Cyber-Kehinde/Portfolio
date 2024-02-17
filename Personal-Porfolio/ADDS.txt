@@ -1,0 +1,43 @@
+ADDS
+1. Flowchart of AD DS
+2. Setting Up the Virtual Machine
+3. Installing Windows Server 2019 on the Virtual Machine
+4. Server Manager Dashboard
+5. The two NIC (both internet and internal NIC)
+6. Checking the internet ip address
+7. Renaming the two NIC (Both the internet and internal)
+8. Renaming the PC
+9. Giving an IP address to the internal NIC
+10. The server manager dashboard after renaming the two NIC and configuring the internal IP address
+11. Installation of FQDN domain - Picking the server to install the AD DS on
+12. Choosing AD DS
+13. Installation of AD DS in progress
+14. The dashboard after installing the AD DS
+15. Promoting the server to a domain controller
+16. Logging to mydomain as an administrator
+17. Opening ADUC, creating new organizational unit and new user
+18. Making the User a domain admin
+19. Signing in as other user with the newly created credentials
+20. Installing Remote Access Server and Network Address Translation
+21. Configuring the Remote Access Server
+22. Choosing the Internet Interface
+23. Dashboard after configuring RAS and NAT
+24. Installing DHCP Server
+25. DHCP Control Panel
+26. Creating new scope for the IP address
+27. DHCP Dashboard
+28. Configuring local server - Internet Explorer enhanced security ( from ON - OFF)
+29.  Users name to be generated AD DS
+30. The PowerShell script to add new user
+31. Names of users generated
+32. Creating another client virtual machine to use the DHCP created previously
+33. checking if server is working
+34. Checking if Client1 actually join the server
+35. Checking if the computer join the domain inside ADUC
+36. Testing by login-in with other users credentials generated using PowerShell
+37. Using CMD to check whoami
+
+
+
+
+
